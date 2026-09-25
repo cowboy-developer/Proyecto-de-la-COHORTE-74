@@ -1,0 +1,1 @@
+En este archivo encontramos operadores aritméticos, de comparación, lógicos y sus ejemplos
